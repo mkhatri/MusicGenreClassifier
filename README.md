@@ -1,6 +1,6 @@
 # Music Genre Classification Project
 
-This project aims to build a machine learning model that can classify music tracks into different genres based on their audio features.  It uses a dataset combining track metadata and audio features extracted using the Echo Nest API. The [Free Music Archive (FMA)](add fma website link here if you have access to the internet) dataset is also integrated for richer genre information.
+This project aims to build a machine learning model that can classify music tracks into different genres based on their audio features.  It uses a dataset which is extracted from (https://github.com/shukkkur/Classify-Song-Genres-from-Audio-Data/tree/main/datasets).
 
 
 
